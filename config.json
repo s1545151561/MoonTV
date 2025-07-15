@@ -80,6 +80,10 @@
     "fczy": {
       "api": "https://api.fczy888.me/api.php/provide/vod",
       "name": "蜂巢片库"
+    }, 
+    "subocj": {
+      "api": "https://subocj.com/api.php/provide/vod",
+      "name": "速播资源"
     }
   }
 }
