@@ -33,12 +33,12 @@
       "name": "快播资源"
     },
     "maotaizy": {
-      "api": "https://hsckzy888.com/api.php/provide/vod/at/json",
+      "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json",
       "name": "黄色资源"
       
     },
     "wolong": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "api": "https://hsckzy.xyz/api.php/provide/vod/from/hsckm3u8/at/xml",
       "name": "黄色资源备"
     },
     "jisu": {
