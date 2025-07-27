@@ -2,7 +2,7 @@
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
-      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
       "name": "奥斯卡资源",
       "detail": "https://aosikazy.com"
     },
@@ -12,24 +12,24 @@
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
-      "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+      "api": "https://naixxzy.com/api.php/provide/vod/at/xml",
       "name": "奶香香资源"
     },
     "bfzy": {
-      "api": "https://naixxzy6.com/api.php/provide/vod/?ac=list",
+      "api": "https://naixxzy6.com/api.php/provide/vod/at/xml",
       "name": "奶香香资源备"
     },
     "tyyszy": {
-      "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
+      "api": "https://apiyutu.com/api.php/provide/vod/at/xml",
       "name": "玉兔资源"
     },
     "ffzy": {
-      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+      "api": "https://ckzy.me/api.php/provide/vod/at/xml",
       "name": "ck资源",
       "detail": "https://ckzy.me"
     },
     "zy360": {
-      "api": "https://gayapi.com/api.php/provide/vod/at/json",
+      "api": "https://gayapi.com/api.php/provide/vod/at/xml",
       "name": "快播资源"
     },
     "maotaizy": {
@@ -47,12 +47,16 @@
       "detail": "https://xingba222.com"
     },
     "dbzy": {
-      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "api": "https://155api.com/api.php/provide/vod/at/xml",
       "name": "155资源"
     },
     "mozhua": {
-      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "api": "https://slapibf.com/api.php/provide/vod/at/xml",
       "name": "森林资源"
+          },
+    "mozhua": {
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod/at/xml",
+      "name": "森林资源备"
     }
   }
 }
